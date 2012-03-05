@@ -1,18 +1,8 @@
 {
-            "name": "Cowboys from Hell",
-            
-            
-  "Herausgeber": "Xema",
-  "Nummer": "1234-5678-9012-3456",
-  "Deckung": 2e+6,
-  "Währung": "EURO",
-  "Inhaber": {
-    "Name": "Mustermann",
-    "Vorname": "Max",
-    "männlich": true,
-    "Hobbys": [ "Reiten", "Golfen", "Lesen" ],
-    "Alter": 42,
-    "Kinder": [],
-    "Partner": null
-  }
+    "name": "Cowboys from Hell",
+    "author": "Pantera"    
+    "dependencies" : {
+        "mysterious-lib": ">=1.0.0",
+        "better-life-app": ">=0.2.x"
+    }
 }
